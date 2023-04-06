@@ -23,6 +23,16 @@
 ![Screenshot (115)](https://user-images.githubusercontent.com/111841729/230317240-ee73407b-2a62-4520-9c3b-c106545592d2.png)
 ![Screenshot (116)](https://user-images.githubusercontent.com/111841729/230317262-0e0b2280-bb88-483e-9de3-8aa99e48ce8c.png)
 
+## OOPs Concepts demonstrated
+
+The following OOPs concepts are demonstrated in this program:
+
+* Abstraction: The program uses abstraction to model the different types of services as interfaces. This allows the program to represent the essential characteristics of services without getting into the details of  implementation.
+
+* Polymorphism: The program uses polymorphism to allow the program to treat different types of cars and services in a uniform way, regardless of their specific implementations. This allows the program to handle different types of cars and services without having to write separate code for each type.
+
+* Encapsulation: The program uses encapsulation to hide the internal details of the car and service implementations and expose only the essential methods and properties to the outside world. This allows the program to ensure that the car and service data is accessed and modified only through a well-defined interface, and prevents unwanted modifications that can lead to errors.
+
 
 ## How to Use:
 
